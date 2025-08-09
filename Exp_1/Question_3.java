@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ATM_System 
+public class Question_3 
 {
 	private static final boolean True = false;
 

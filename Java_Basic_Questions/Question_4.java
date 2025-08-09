@@ -1,5 +1,5 @@
 import java.util.*;
-class Fourth
+class Question_4
 {
 	public static void main(String arg[])
 	{
