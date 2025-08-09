@@ -25,3 +25,4 @@ This repository contains all Java Object-Oriented Programming lab exercises with
 3.Run the compiled class:
     ```bash
     java Question_<number>
+    ```
