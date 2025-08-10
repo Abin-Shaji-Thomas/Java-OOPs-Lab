@@ -21,6 +21,7 @@ This repository contains all Java Object-Oriented Programming lab exercises with
 1. Navigate to the desired exercise folder.
 2. Compile the Java file(s):
    ```bash
+   
    javac Question_<number>.java
 3.Run the compiled class:
     ```bash
