@@ -12,7 +12,8 @@ This repository contains all Java Object-Oriented Programming lab exercises with
 | 1 | Usage of Control Statements for Logical Building | [View Code](./Exercise_1_Usage_of_Control_Statements_for_Logical_Building) |
 | 2 | Data Management using Arrays | [View Code](./Exercise_2_Data_Management_using_Arrays) |
 | 3 | Text Processing using String Methods | [View Code](./Exercise_3_Text_Processing_using_String_Methods) |
-
+| 4 | Application Development using Class and Objects | [View Code](./Excercise_4_Application_Development_using_Class_and_Objects)|
+| 5 |  Application using Inheritance and Polymorphism | [View Code](./Excercise_5_Application_using_Inheritance_and_Polymorphism)|
 
 ---
 
