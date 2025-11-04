@@ -7,7 +7,7 @@ public class Question_3
 	{
 		Scanner sc=new Scanner(System.in);
 		double balance=10000;
-		System.out.println("Welcome to KITS ATNM");
+		System.out.println("Welcome to KITS ATM");
 		int choice;
 		do
 		{
