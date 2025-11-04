@@ -11,7 +11,7 @@ public class Question_3 {
         int ch;
 
         try {
-            FileReader fr = new FileReader("/home/abin/Documents/JAVA/LAB/src/Exp_9/sample.txt");
+            FileReader fr = new FileReader("/home/abin/Documents/Java-OOPs-Lab/Exercise_9_File_Handling_using_Java_Programming/notes");
 
             while ((ch = fr.read()) != -1) {
                 char c = Character.toLowerCase((char) ch);

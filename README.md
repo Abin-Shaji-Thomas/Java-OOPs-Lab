@@ -16,8 +16,9 @@ This repository contains all Java Object-Oriented Programming lab exercises with
 | 5 |  Application using Inheritance and Polymorphism | [View Code](./Excercise_5_Application_using_Inheritance_and_Polymorphism)|
 | 6 | Creating Application using Abstract Class and Interface | [View Code](./Excercise_6_Creating_Application_using_Abstract_Class_and_Interface)|
 | 7 | Application Development using Exception Handling | [View Code](./Excercise_7_Application_Development_using_Exception_Handling)|
-| 8 | Multithreading and Synchronization | [View Code](./Exercise_8_Multithreading_and_Synchronization)|
+| 8 | Parallel Processing using Multithreading | [View Code](./Excercise_8_Parallel_Processing_using_Multithreading)|
 | 9 | File Handling using Java Programming | [View Code](./Exercise_9_File_Handling_using_Java_Programming)|
+| 10 | Graphical User Interface Design using Java Swing API | [View Code](./Excercise_!0_Graphical_User_Interface_Design_using_Java_Swing_API)|
 
 ---
 
