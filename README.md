@@ -15,6 +15,7 @@ This repository contains all Java Object-Oriented Programming lab exercises with
 | 4 | Application Development using Class and Objects | [View Code](./Excercise_4_Application_Development_using_Class_and_Objects)|
 | 5 |  Application using Inheritance and Polymorphism | [View Code](./Excercise_5_Application_using_Inheritance_and_Polymorphism)|
 | 6 | Creating Application using Abstract Class and Interface | [View Code](./Excercise_6_Creating_Application_using_Abstract_Class_and_Interface)|
+| 7 | Application Development using Exception Handling | [View Code](./Excercise_7_Application_Development_using_Exception_Handling)|
 
 ---
 
